@@ -1,7 +1,7 @@
 <img src="assets/student-body-fulltext.svg" height="100">
 
 # reedsb.com
-Webstack for the Reed Student Body.
+Webstack for the Reed Student Body website.
 ## Included Functionality
 1. Senate Nomination
 2. Senate Election Ballot
