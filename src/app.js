@@ -425,7 +425,7 @@
       "anachebk@reed.edu",
       "cunningk@reed.edu",
       "aziouedra@reed.edu"],
-    direct_server_load: true,
+    direct_server_load: false,
     bypass_full_id_app: true,
   };
 
